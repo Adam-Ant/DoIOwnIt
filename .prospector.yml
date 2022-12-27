@@ -1,0 +1,3 @@
+pep8:
+  disable:
+    - N816 # Fully uppercase var names are fully ugly.
